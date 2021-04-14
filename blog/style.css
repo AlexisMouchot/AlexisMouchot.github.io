@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Fredoka+One&display=swap');
+
+img{
+  border-radius: 400px;
+  width: 400px;
+  height: 400px;
+}
+img2{
+  border-radius: 40px;
+  width: 40px;
+  height: 40px;
+}
+
+body{
+  margin: 10px;
+  font-family: 'Concert One', cursive;
+  div class: "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500;
+}
+.yop{
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: 
+  background-size: cover;
+}
+h1{ 
+  font-size: 60px;
+  color:#F30707;
+  text-align: center;
+  font-family :'Concert One', cursive;} 
+
+  h2{ 
+  font-size: 60px;
+  color: red;
+  text-align: center;
+    font-family : 'Fredoka One', cursive;}
+  
+h3{ 
+  font-size: 60px;
+  color: black;
+  text-align: center;
+  font-family :'Concert One', cursive;} 
+
+.container{
+text-align: center;
+margin: 70px;
+padding: 70px;
+border-radius: 50px;
+background-color: white;}
+  
+.yop{
+margin: 70px;
+padding: 70px;
+  border-radius: 50px;
+ text-align: center;
+ background-color: yellow;
+}
+  
+.col{
+text-align: center;
+margin: 400px;
+padding: 70px;
+border-radius: 100px;
+ background-color: #EEEE17;
+}
+
+.center{
+  text-align: center;} 
+  
+.container{
+margin: 70px;
+padding: 70px;
+border-radius: 50px;
+background-color: white;}
+  
+.card {
+  margin: 50px 0px;
+  padding: 50px;
+  border-radius: 16px;
+  background-color: white;}
+  
+#flex3{
+display: flex;
+  justify-content: space-around;
+}
